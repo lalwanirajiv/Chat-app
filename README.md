@@ -43,8 +43,8 @@
 
   <h3>Installation</h3>
 
-  <pre><code>git clone https://github.com/your-username/your-repo.git
-cd your-repo
+  <pre><code>git clone https://github.com/lalwanirajiv/chat-app.git
+cd chat-app
 npm install</code></pre>
 
   <h3>Usage</h3>
@@ -56,28 +56,7 @@ npm install</code></pre>
     <li>Enter your name and start chatting!</li>
   </ol>
 
-  <h2>Contributing</h2>
-
-  <p>Contributions are welcome! Follow these steps to contribute to the project:</p>
-
-  <ol>
-    <li>Fork the repository.</li>
-    <li>Create a new branch (<code>git checkout -b feature/your-feature</code>).</li>
-    <li>Commit your changes (<code>git commit -am 'Add some feature'</code>).</li>
-    <li>Push to the branch (<code>git push origin feature/your-feature</code>).</li>
-    <li>Open a pull request.</li>
-  </ol>
-
-  <h2>License</h2>
-
-  <p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for details.</p>
-
-  <h2>Acknowledgments</h2>
-
-  <ul>
-    <li>Thanks to Socket.IO for providing real-time communication capabilities.</li>
-    <li>Inspiration from various open-source chat applications.</li>
-  </ul>
+  
 
 </body>
 </html>
